@@ -10,8 +10,8 @@ function App() {
           className="logo"
         />
         <h1 className="heading">Coming Soon!</h1>
-        <p className="subheading">We're working hard to bring MEMRA to life.</p>
-        <p className="description"> Stay tuned!</p>
+        {/* <p className="subheading">We're working hard to bring MEMRA to life.</p> */}
+        <p className="description"> Stay tuned</p>
       </div>
     </div>
   );
